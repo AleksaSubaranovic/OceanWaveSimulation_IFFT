@@ -1,7 +1,7 @@
 
 # OceanWaweSimulation_IFFT
 
-Ocean Wawes Simulation with OpenGL (IFFT method)
+Ocean Waves Simulation with OpenGL (IFFT method)
 
 Important files are in folder `WaterShaders` and `SandboxMain.cpp`.
 
